@@ -1,0 +1,11 @@
+/* Thème Jour */
+.jour {
+    color: black;
+    background-color: lightgrey;
+}
+
+/* Thème Nuit */
+.nuit {
+    color: white;
+    background-color: black;
+}
